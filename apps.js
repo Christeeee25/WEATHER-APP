@@ -40,7 +40,7 @@ const searchWeather = ()=>{
                     <i class="fa fa-balance-scale" aria-hidden="true"></i>
                     <span id="pressure">${data.main.pressure}</span>hPa`;
         } else{
-            result.innerHTML= alert('Error fetching data');
+            result.innerHTML= alert('Invalid country or city name😲');
             
         }
         // valueSearch.value='';
