@@ -98,7 +98,7 @@ main li{
     background-image: 
     linear-gradient(
         to bottom,
-        transparent 50%
+        transparent 50%,
         #0003 50%
     );
     font-weight: bold;
@@ -112,10 +112,10 @@ main li i{
 
 }
 
-main li :nth-child(2){
+main li:nth-child(2){
     background-color: #b56295;
 }
-main li :nth-child(3){
+main li:nth-child(3){
     background-color: #48567b;
 }
 
