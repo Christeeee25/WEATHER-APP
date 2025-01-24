@@ -73,8 +73,8 @@ main .temperature img{
     );
 }
 
-main.temperature figcaption{
-font-size: 3em;
+main .temperature figcaption{
+    font-size: 3em;
 
 }
 
