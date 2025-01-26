@@ -74,7 +74,7 @@ main .temperature img{
 }
 
 main .temperature figcaption{
-    font-size: 3em;
+    font-size: 2em;
 
 }
 
@@ -124,7 +124,7 @@ main li:nth-child(3){
 }
 
 .sup{
-    font-size: 3em;
+    font-size: 2em;
 }
 
 main.error{
